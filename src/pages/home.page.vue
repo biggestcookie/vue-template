@@ -1,11 +1,3 @@
-<script setup lang="ts">
-import { onMounted } from "vue";
-
-onMounted(() => {
-  console.log("Hello world");
-});
-</script>
-
 <template>
   <section className="section">
     <div className="columns is-centered">
