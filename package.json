@@ -41,8 +41,5 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ],
-  "dependencies": {
-    "npm": "^11.10.1"
-  }
+  ]
 }
